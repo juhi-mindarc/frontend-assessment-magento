@@ -1,6 +1,6 @@
 Explanation
 
-Added 2 buttons for Exercise 1 & 2 and one extra for bonus answer :) - https://t.gyazo.com/teams/mindarc/3d034304f03d81394f2ae064739b30e4.png
+Added 2 buttons for Exercise 1 & 2 and one extra for bonus answer :) - https://t.gyazo.com/teams/mindarc/45b33425eb03e03bec6c36cc447866b2.png
 
 Exercise 1
 -----------------
